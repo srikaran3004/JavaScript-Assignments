@@ -155,7 +155,7 @@ console.log(f += g);
 // Problem 10: Write a JavaScript program to use the in operator to check if a property exists in an object.
 
 const person = {
-    name: "Sri",
+    name: "Sri Karan",
     age: 19,
     city: "Hyderabad"
 }
